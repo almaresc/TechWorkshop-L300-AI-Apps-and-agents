@@ -45,15 +45,11 @@ out/
 *.swp
 *.swo
 
-# Secret files
-.env
-.env.*
 
 # Azure/ADO
 .azure-pipelines.yml
 *.azuredevops
 
 # Github
-.github/
 parameters.json
 .azure
