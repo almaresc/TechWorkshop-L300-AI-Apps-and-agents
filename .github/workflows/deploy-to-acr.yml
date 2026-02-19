@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  ACR_NAME: <your-acr-name>  # Replace with your ACR name (without .azurecr.io)
+  ACR_NAME: cl3ajua72dap4cosureg  # Replace with your ACR name (without .azurecr.io)
   IMAGE_NAME: techworkshop-app
   IMAGE_TAG: ${{ github.sha }}
 
